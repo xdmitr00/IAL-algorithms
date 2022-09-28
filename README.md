@@ -22,7 +22,7 @@ uvedenou datovou částí abstrakce tvoří abstraktní datový typ tList:
         Active ........ zjišťuje aktivitu seznamu.
 
 
-C204: převod infixového výrazu na postfixový 
+C204: 
 
 Implementujte frontu znaků v poli. 
 
@@ -37,7 +37,7 @@ Implementujte následující funkce:
       queueGet ...... přečte a odstraní první prvek fronty  
       queueUp ....... zařazení prvku na konec fronty
 
-C206: dvousměrně vázaný lineární seznam 
+C206: 
 
 Implementujte abstraktní datový typ dvousměrně vázaný lineární seznam.
 
