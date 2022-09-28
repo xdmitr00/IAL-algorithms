@@ -2,6 +2,7 @@
 
 C202: 
 
+
 ** Implementujte abstraktní datový typ jednosměrný lineární seznam.
 ** Užitečným obsahem prvku seznamu je celé číslo typu int.
 ** Seznam bude jako datová abstrakce reprezentován proměnnou typu tList.
@@ -22,6 +23,7 @@ C202:
 **      Actualize ..... přepíše obsah aktivního prvku novou hodnotou,
 **      Succ .......... posune aktivitu na další prvek seznamu,
 **      Active ........ zjišťuje aktivitu seznamu.
+
 
 C204: převod infixového výrazu na postfixový 
 
