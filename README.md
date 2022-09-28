@@ -27,6 +27,7 @@ C204: převod infixového výrazu na postfixový
 Implementujte frontu znaků v poli. 
 
 Implementujte následující funkce:
+
       queueInit ..... inicializace fronty
       nextIndex ..... pomocná funkce - viz popis výše
       queueEmpty .... test na prázdnost fronty  
